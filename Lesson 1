@@ -1,3 +1,5 @@
+//Герман Ілля
+
 require 'date'
 
 class Student
